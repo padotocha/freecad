@@ -3,12 +3,13 @@
 - Tower Assembly
 - Tower uni-assemble multi-body rebuild (maybe)
 
-- Header uni_assemble multi-body rebuild (essential)
+- Original header uni_assemble multi-body rebuild (essential)
 
 - Gearbox and cart uni-assembly multi-body rebuild
 - Gearbox multiple version creation
-- Hydraulic pump or dummy precise rebuild
+- Hydraulic pump or dummy precise rebuild (Rexroth)
 - Pulley support dimensioning and positioning
+- Pulley dimensioning
 - Axles and bolts building
 
 - Material and weight choosing
