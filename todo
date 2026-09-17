@@ -1,0 +1,22 @@
+**************************** TODO **************************
+- Tower refinement
+- Tower Assembly
+- Tower uni-assemble multi-body rebuild (maybe)
+
+- Header uni_assemble multi-body rebuild (essential)
+
+- Gearbox and cart uni-assembly multi-body rebuild
+- Gearbox multiple version creation
+- Hydraulic pump or dummy precise rebuild
+- Pulley support dimensioning and positioning
+- Axles and bolts building
+
+- Material and weight choosing
+- Mesh creation
+- FEA analysis (original and project)
+
+- Blender translation
+- Cable management
+
+
+****************************** DONE ***********************
